@@ -3,15 +3,45 @@ body {
     font-size: 16px;
     color: brown;
     font-family: Arial, Helvetica, sans-serif;
+    border: 6px solid #a03b6d;
+    border-radius: 15px;
+    padding: 20px;
 }
 img {
 
     width: 500px;
-    border: 5px solid rgb(199, 101, 120);
     border-radius: 15px;
-    box-shadow: 5px 5px 15px #a9a3a3;
+    margin-left: 20px; 
 }
 
 .info{
     padding-top: 15px;
+}
+#Drawing{
+    width: 200px;
+    border: 0px solid rgb(199, 101, 120);
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px #787777;
+}
+h2{
+    color: rgb(125, 54, 11);
+    font-family: Courier, monospace;
+    text-decoration: underline;
+    font-weight: bold;
+}
+li{
+    font-size: 20px;  
+}
+
+#icon{
+    width: 80px;
+    border: 0px solid rgb(199, 101, 120);
+    border-radius: 15px;
+}
+#Myselfpic{
+    width: 500px;
+    border: 5px solid rgb(199, 101, 120);
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px #656262;
+    margin-left: 50px; 
 }
